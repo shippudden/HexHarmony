@@ -12,4 +12,4 @@ HTML: Provides the basic structure of the application.
 CSS: Handles the styling and smooth transitions of the background color.
 JavaScript: Powers the dynamic color generation, background changes, and text color adjustments.
 
-You can get the live demo [here](https://codepen.io/grealish/pen/RwXGadz)
+You can get the live demo [here](https://color-generator-self-pi.vercel.app/)
